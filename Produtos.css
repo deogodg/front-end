@@ -45,15 +45,15 @@ nav a:hover {
     text-align: center;
     width: 30%;
     vertical-align: top;
-    margin: 0 1.5%;
+    margin: 0 1.0%;
     border: 2px solid black;
     padding:  30px 20px;
     box-sizing: border-box;
-    border-radius: 15px ;
+    border-radius: 15px;
    }
 
    .produtos li:hover h2 {
-    font-size: 34px;
+    font-size: 30px;
    }
 
 .produtos li:hover {
@@ -67,7 +67,7 @@ nav a:hover {
 
 .produtos h2 {
 
-font-size: 30px;
+font-size: 25px;
 font-weight: bold;
 }
 
@@ -83,12 +83,11 @@ font-weight: bold;
 footer {
     text-align: center;
     background: url("bg.jpg");
-    padding: 40px 0 ;
+    padding: 40px 0;
 }
 
     .Copyright {
         color: #ffffff;
         font-size: 13px;
-        margin: 20px 0
-        ;
+        margin: 20px;
     }
