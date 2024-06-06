@@ -51,9 +51,9 @@ padding: 30px;
     width: 50%;
   }
 
-@ media(max-width:720 px ) {
+@media(max-width:720px ) {
  body {
-  font-size:20 px;
-  padding: 30 px;
+  font-size:20px;
+  padding: 30px;
  }
 }
